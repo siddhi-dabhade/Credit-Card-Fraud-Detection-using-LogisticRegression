@@ -16,9 +16,9 @@ Implements logistic regression for binary classification, optimizing hyperparame
 Assesses model accuracy, precision, recall, F1-score, and ROC-AUC to ensure robust fraud detection.
 
 # Dependencies
-Python 3.x
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+1. Python 3.x
+2. NumPy
+3. Pandas
+4. Scikit-learn
+5. Matplotlib
+6. Seaborn
