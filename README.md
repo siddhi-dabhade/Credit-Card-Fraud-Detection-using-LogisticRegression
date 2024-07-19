@@ -9,11 +9,11 @@ This project aims to detect fraudulent credit card transactions using logistic r
 
 # Features
 # 1.Exploratory Data Analysis (EDA): 
-    Visualizes transaction data distributions and identifies patterns indicative of fraud.
+Visualizes transaction data distributions and identifies patterns indicative of fraud.
 # 2.Model Training: 
-    Implements logistic regression for binary classification, optimizing hyperparameters to enhance model performance.
+Implements logistic regression for binary classification, optimizing hyperparameters to enhance model performance.
 # 3.Evaluation Metrics: 
-    Assesses model accuracy, precision, recall, F1-score, and ROC-AUC to ensure robust fraud detection.
+Assesses model accuracy, precision, recall, F1-score, and ROC-AUC to ensure robust fraud detection.
 
 # Dependencies
 Python 3.x
